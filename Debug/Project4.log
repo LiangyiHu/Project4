@@ -1,0 +1,56 @@
+﻿  Shader.cpp
+  Model.cpp
+  main.cpp
+c:\users\larry\google drive\gwu learning\graphics1\project4\project4\main.cpp(84): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\larry\google drive\gwu learning\graphics1\project4\project4\main.cpp(106): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\larry\google drive\gwu learning\graphics1\project4\project4\main.cpp(107): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\larry\google drive\gwu learning\graphics1\project4\project4\main.cpp(113): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\larry\google drive\gwu learning\graphics1\project4\project4\main.cpp(153): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\larry\google drive\gwu learning\graphics1\project4\project4\main.cpp(158): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Light.cpp
+  Labs.cpp
+  Camera.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Light.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Model.obj : warning LNK4049: locally defined symbol ___glewBindBuffer imported
+Light.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Model.obj : warning LNK4049: locally defined symbol ___glewBufferData imported
+Light.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Model.obj : warning LNK4049: locally defined symbol ___glewGenBuffers imported
+Light.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Model.obj : warning LNK4049: locally defined symbol ___glewEnableVertexAttribArray imported
+Light.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Model.obj : warning LNK4049: locally defined symbol ___glewGetUniformLocation imported
+Light.obj : warning LNK4049: locally defined symbol ___glewUniform3f imported
+Model.obj : warning LNK4049: locally defined symbol ___glewUniform3f imported
+Light.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Model.obj : warning LNK4049: locally defined symbol ___glewUniformMatrix4fv imported
+Light.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+Model.obj : warning LNK4049: locally defined symbol ___glewVertexAttribPointer imported
+Light.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+Model.obj : warning LNK4049: locally defined symbol ___glewBindVertexArray imported
+Light.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+Model.obj : warning LNK4049: locally defined symbol ___glewGenVertexArrays imported
+Model.obj : warning LNK4049: locally defined symbol ___glewDeleteBuffers imported
+Model.obj : warning LNK4049: locally defined symbol ___glewUniform1f imported
+Model.obj : warning LNK4049: locally defined symbol ___glewUniform1i imported
+Model.obj : warning LNK4049: locally defined symbol ___glewUniform3fv imported
+Model.obj : warning LNK4049: locally defined symbol ___glewGenerateMipmap imported
+Model.obj : warning LNK4049: locally defined symbol ___glewDeleteVertexArrays imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewAttachShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCompileShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewCreateShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewDeleteShader imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetProgramiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderInfoLog imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewGetShaderiv imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewLinkProgram imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewShaderSource imported
+Shader.obj : warning LNK4049: locally defined symbol ___glewUseProgram imported
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\larry\Google Drive\GWU learning\Graphics1\Project4\Debug\vc120.pdb'; linking object as if no debug info
+  Project4.vcxproj -> C:\Users\larry\Google Drive\GWU learning\Graphics1\Project4\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\larry\Google Drive\GWU learning\Graphics1\Project4\Debug\Project4.pdb (Partial PDB)
